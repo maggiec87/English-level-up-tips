@@ -1,6 +1,11 @@
-## 转发 
+# 转载声明
 
-[English-level-up-tips 项目](https://github.com/byoungd/up)
+原链接：[English-level-up-tips 项目](https://github.com/byoungd/up)
+
+
+# 转载内容
+
+----
 
 这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
 
@@ -17,8 +22,6 @@
 
 ## 章节
 
-### 已完成：
-
 [![understanding@2x.png](assets/understanding@2x.png)](part-1/1-understanding.md)
 
 [![vocabulary@2x.png](assets/vocabulary@2x.png)](part-1/2-vocabulary.md)
@@ -33,8 +36,7 @@
 
 ![word-list@2x.png](assets/word-list@2x.png)
 
-这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
-工程巨大，需要较长的时间进行整理。
+这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。工程巨大，需要较长的时间进行整理。
 
 ## 为 初学者单词表 做贡献
 
@@ -46,28 +48,7 @@
 
 - 感谢帮助完善这份指南的所有人
 
-- 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
-
-## 转载声明
-
-转载本指南，请注明作者与 GitHub 链接，谢谢！
-
-## 有疑问或建议
-
-您可以直接提 issue
-
-## 关于赞赏
-
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
-
-2017 年 6 月 8 日我和一见钟情的女神走到一起，既然已经得到此生所爱，便不再需要其他奖赏。
-
-在此，统一声明：**本指南不接受也不需要金钱上的赞助**。
-
-请把你那些本来想用来赞赏的零钱给自己买几本好书，Enjoy!
-
-学习，难道不是人生最棒的乐趣么？
+- 特别感谢: [v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
 ## GitBook 链接
-
 想要获得更好的阅读体验，请访问本指南对应的GitBook页面 - [English-level-up-tips-for-Chinese](https://babyyoung.gitbook.io/english-level-up-tips/)
